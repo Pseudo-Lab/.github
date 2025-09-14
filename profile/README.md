@@ -14,7 +14,7 @@
 ## 🌟 Our Mission
 **성장이 멈추는 불편한 상황을 이겨내고, 남들과는 다르게, 더 깊이, 더 멀리 나아가기**
 
-AI와 데이터사이언스 분야에서 **공유(Sharing)**, **동기부여(Motivation)**, **협업의 즐거움(Collaborative Joy)**을 바탕으로 의미 있는 오픈소스 프로젝트를 함께 만들어가는 **5천 명 이상**의 연구자 커뮤니티입니다.
+AI와 데이터사이언스 분야에서 **공유(Sharing)**, **동기부여(Motivation)**, **함께하는 즐거움(Collaborative Joy)** 을 바탕으로 의미 있는 오픈소스 프로젝트를 함께 만들어가는 **5천 명 이상**의 연구자 커뮤니티입니다.
 
 ## 🎯 What We Do
 
@@ -46,6 +46,8 @@ AI와 데이터사이언스 분야에서 **공유(Sharing)**, **동기부여(Mot
 - 기타 후원: GatherTown
 - 협력: Temple University Fox School of Business
 
+후원 및 협력 문의: 대표 김찬란 chanrankim@pseudo-lab.com
+
 <div align="center">
 
 ![Repositories](https://img.shields.io/badge/Repositories-130+-brightgreen?style=for-the-badge)
@@ -54,7 +56,6 @@ AI와 데이터사이언스 분야에서 **공유(Sharing)**, **동기부여(Mot
 ## 🤝 Join Us
 
 [**🏠 Website**](https://pseudo-lab.com) • [**💬 Discord**](https://discord.gg/EPurkHVtp2) • [**📺 YouTube**](https://www.youtube.com/channel/UCLxNgQ_Ir6Cuod9mkBBiPEw) • [**🤗 HuggingFace**](https://huggingface.co/pseudolab)
-문의: 대표 김찬란 chanrankim@pseudo-lab.com
 
 ---
 
